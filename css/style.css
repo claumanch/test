@@ -477,7 +477,7 @@ a:focus {
 }
 
 .service_section .box:hover .img-box {
-  background-color: #020230 ;
+  background-color: lightgray ;
 }
 
 .server_section {
