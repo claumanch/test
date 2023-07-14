@@ -437,7 +437,7 @@ a:focus {
 .service_section .box .img-box {
   width: 75px;
   height: 75px;
-  background-color: #03a7d3;
+  background-color: white;
   border-radius: 100%;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -477,7 +477,7 @@ a:focus {
 }
 
 .service_section .box:hover .img-box {
-  background-color: #ff4646;
+  background-color: #020230 ;
 }
 
 .server_section {
@@ -540,7 +540,7 @@ a:focus {
   position: absolute;
   top: 50%;
   left: 50%;
-  background-color: #03a7d3;
+  background-color: white;
   opacity: 1;
   border-radius: 100%;
   -webkit-transform: translate(-50%, -50%);
